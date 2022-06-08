@@ -8,7 +8,7 @@
  *
  *    * Return: return value of last digit
  *
- *     */
+ */
 
 int print_last_digit(int x)
 {
